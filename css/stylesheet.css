@@ -1,0 +1,25 @@
+.indexWrapper{
+    display: grid;
+    grid-template-rows: 40vh 30vh 30vh 30vh;
+    grid-auto-columns: 20vh 60vh 40dvh;
+    
+
+}
+
+.restaurantWrapper{
+    display: grid;
+}
+
+.receptWrapper{
+    display: grid;
+}
+
+header{
+    background-color: #e67e22;
+    font-family: 'Courier New', Courier, monospace;
+    height: 10vh;
+}
+
+.headerTitle{
+    margin: 0%;
+}
