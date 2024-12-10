@@ -16,10 +16,18 @@
 
 header{
     background-color: #e67e22;
-    font-family: 'Courier New', Courier, monospace;
     height: 10vh;
+
+    display: flex;
+    justify-content:left;
+    align-items: center;
 }
 
 .headerTitle{
     margin: 0%;
+    width:fit-content;
+    padding-left: 10px;
+    color: white;
+    font-family: "Roboto Mono", monospace;
+
 }
